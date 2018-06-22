@@ -22,12 +22,12 @@
 <repository>
 <id>deploymentRepo</id>
 <name>Internal Releases</name>
-<url>http://192.168.52.128:9090/nexus/content/repositories/releases/</url>
+<url>http://192.168.52.128:9191/nexus/content/repositories/releases/</url>
 </repository>
 <snapshotRepository>
 <id>deploymentRepo</id>
 <name>Internal Releases</name>
-<url>http://192.168.52.128:9090/nexus/content/repositories/snapshots/</url>
+<url>http://192.168.52.128:9191/nexus/content/repositories/snapshots/</url>
 </snapshotRepository>
 </distributionManagement>
 
